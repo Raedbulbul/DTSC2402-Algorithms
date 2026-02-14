@@ -1,0 +1,19 @@
+Algorithm: Calculate the Average of 4 Subject Marks
+
+Start
+
+Input the marks of Subject 1
+
+Input the marks of Subject 2
+
+Input the marks of Subject 3
+
+Input the marks of Subject 4
+
+Calculate the total marks by adding all four subjects
+
+Calculate the average by dividing the total by 4
+
+Display the average
+
+End
